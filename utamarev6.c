@@ -1,12 +1,3 @@
-/*
-* EL2208 Praktikum Pemecahan Masalah dengan C 2019/2020
-* MODUL 9 – TUGAS BESAR
-* Kelompok          : 5
-* Hari dan Tanggal  : Jumat, 17 April 2020
-* Asisten (NIM)     : Rizky Ardi Maulana (13217054)
-* Nama File         : utamaTUBESFINAL.c
-* Deskripsi         : Implementasi main function rev0
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
